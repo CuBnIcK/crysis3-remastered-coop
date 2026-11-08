@@ -1,0 +1,8 @@
+# build output and packages
+build/
+dist/
+__pycache__/
+
+# private data: logs, crash dumps, injected copies, notes, downloaded tools
+local/
+tools/
